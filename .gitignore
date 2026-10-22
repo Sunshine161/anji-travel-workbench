@@ -1,0 +1,10 @@
+build/
+node_modules/
+__pycache__/
+*.pyc
+.env
+.env.*
+.openai/
+.DS_Store
+Thumbs.db
+安吉五人旅行记录*.json
